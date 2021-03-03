@@ -1,4 +1,4 @@
-# znepokojene-matky
+# project-planner
 
 ## Project setup
 ```
